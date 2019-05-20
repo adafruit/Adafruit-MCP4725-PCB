@@ -2,7 +2,7 @@
 <a href="http://www.adafruit.com/products/935"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-his breakout board features the easy-to-use MCP4725 12-bit DAC. Control it via I2C and send it the value you want it to output, and the VOUT pin will have it. Great for audio / analog projects, such as when you can't use PWM but need a sine wave or adjustable bias point.
+This breakout board features the easy-to-use MCP4725 12-bit DAC. Control it via I2C and send it the value you want it to output, and the VOUT pin will have it. Great for audio / analog projects, such as when you can't use PWM but need a sine wave or adjustable bias point.
 
 We break out the ADDR/A0 pin so you can connect two of these DACs on one I2C bus, just tie that pin of one high to keep it from conflicting. Also included is a 6-pin header, for use in a breadboard. Works with both 3.3V or 5V logic.
 
